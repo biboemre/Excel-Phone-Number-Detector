@@ -1,4 +1,4 @@
-Telefon Numaralarının Mobil Olup Olmadığını Kontrol Eden Python Kodu
+# Telefon Numaralarının Mobil Olup Olmadığını Kontrol Eden Python Kodu
 
 Bu Python kodu, bir Excel dosyasındaki telefon numaralarının mobil olup olmadığını kontrol eder. Kod, Excel dosyasını pandas kullanarak okur, her satırı döngüye alır ve her bir telefon numarasının mobil olup olmadığını kontrol eder. Sonuçlar, bir pandas DataFrame'inde saklanır ve yeni bir Excel dosyasına yazılır.
 
